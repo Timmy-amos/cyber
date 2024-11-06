@@ -1,0 +1,35 @@
+#body{
+    background-color:black;
+    color:white
+}
+#h1{
+    color:red
+}
+#sub{
+    background-color:blue;
+    color:white;
+    border-radius:5px;
+    border:none
+}
+#sub:hover{
+    background-color:skyblue
+}
+#fir{
+    color:greenyellow
+}
+#age{
+    background-color:blue;
+    color:white;
+    border-radius:5px;
+    border:none
+}
+#age:hover{
+    background-color:skyblue
+}
+#sec{
+    color:greenyellow
+}
+#pic{
+    height: 300px;
+    width:270px
+}
